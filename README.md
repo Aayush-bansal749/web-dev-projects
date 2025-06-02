@@ -4,3 +4,5 @@ web dev projects
 # Digital clock
 # BMI index
 # Guess the number
+# Keyboard 
+# Unlimited colors
